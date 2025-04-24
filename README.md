@@ -111,7 +111,6 @@ The final output format extends the input with:
    - Corrects verification judgments that may be initially too lenient
    - Provides a comprehensive review of statement-evidence pairs
 
-```
 
 ## License
 
