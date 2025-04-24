@@ -111,17 +111,6 @@ The final output format extends the input with:
    - Corrects verification judgments that may be initially too lenient
    - Provides a comprehensive review of statement-evidence pairs
 
-## Citation
-
-If you use this code in your research, please cite our paper:
-
-```
-@inproceedings{tiwari2025fine,
-  title={Fine-Grained Analysis of Chain-of-Thought Reasoning for the LLM-SR Competition},
-  author={Tiwari, Rajneesh and Rastogi, Pranshu},
-  booktitle={Proceedings of the LLM Self-Reasoning Competition},
-  year={2025}
-}
 ```
 
 ## License
